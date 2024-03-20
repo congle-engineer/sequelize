@@ -1,0 +1,2 @@
+# sequelize
+Practice sequelize library
